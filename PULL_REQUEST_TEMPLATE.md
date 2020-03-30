@@ -18,3 +18,4 @@ Follow this checklist to help us incorporate your contribution quickly and easil
 - [ ] Write necessary unit-test to verify your logic correction, more mock a little better when cross module dependency exist. If the new feature or significant change is committed, please remember to add integration-test in [test module](https://github.com/apache/incubator-dubbo/tree/master/dubbo-test).
 - [ ] Run `mvn clean install -DskipTests=false` & `mvn clean test-compile failsafe:integration-test` to make sure unit-test and integration-test pass.
 - [ ] If this contribution is large, please follow the [Software Donation Guide](https://github.com/apache/incubator-dubbo/wiki/Software-donation-guide).
+#test
